@@ -37,3 +37,4 @@
                  'v8_random_seed': 0,
                  'v8_use_snapshot': 'true',
                  'want_separate_host_toolset': 0}}
+                 'want_alien_host' : 0
